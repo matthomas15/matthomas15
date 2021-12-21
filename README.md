@@ -1,6 +1,6 @@
 ### Hi there, I'm Matt 👋 An astrophysics PhD Student with a passion for robotics!
 
-😄 Pronouns: He/Him
+(He/Him)
 
 Currently completing my PhD in astrophysics at the University of Melbourne 🌟 I'm also involved with the Melbourne Space Program. I mainly work on developing Python simulations to explore science cases for satellites in orbit 🛰️, but I'm looking to expand my skills in Machine Learning and data science 💻
 
